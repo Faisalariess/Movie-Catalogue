@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="name_movie">nama movie</string>
+    <string name="lorem">kriteria</string>
+    <string name="namamovie">Nama Movie</string>
+
+    <string-array name="data_name">
+        <item>Dark Phoenix</item>
+        <item>I Am Mother</item>
+        <item>Men In Black = Internasional</item>
+        <item>Avengers = Endgame</item>
+        <item>Aladdin</item>
+        <item>Chenobyl</item>
+        <item>Breaking Bad</item>
+        <item>Game Of Thrones</item>
+    </string-array>
+
+    <string-array name="data_deskripsi">
+        <item>Movies Populer 2019</item>
+        <item>Movies Populer 2019</item>
+        <item>Movies Populer 2019</item>
+        <item>Movies Populer 2019</item>
+        <item>Movies Populer 2019</item>
+        <item>Movies Populer Serial</item>
+        <item>Movies Populer Serial</item>
+        <item>Movies Populer Serial</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/mov1</item>
+        <item>@drawable/mov2</item>
+        <item>@drawable/mov3</item>
+        <item>@drawable/mov4</item>
+        <item>@drawable/mov5</item>
+        <item>@drawable/tv1</item>
+        <item>@drawable/tv5</item>
+        <item>@drawable/tv6</item>
+
+
+    </array>
+</resources>
